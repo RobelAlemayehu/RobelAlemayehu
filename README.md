@@ -23,12 +23,13 @@ I treat coding like a performance — it requires practice, precision, and great
 
 ## 🧠 Competitive Programming
 
-<p>
+<p align="left">
   <a href="https://leetcode.com/u/robel_al/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/robelalemayehu">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="40" />
   </a>
 </p>
 
@@ -48,8 +49,8 @@ I treat coding like a performance — it requires practice, precision, and great
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Remmaabde&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Remmaabde&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RobelAlemayehu&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobelAlemayehu&layout=compact&theme=github_dark&hide_border=true" height="160" />
 </p>
 
 ---
