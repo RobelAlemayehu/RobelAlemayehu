@@ -39,10 +39,10 @@ I treat coding like a performance — it requires practice, precision, and great
 
 ## 🔭 What I'm Up To
 
-- 🌱 Currently mastering the **MERN Stack**
-- 📚 Strengthening my **Data Structures & Algorithms**
-- 💼 Open for **Freelance** & **Full-Time** opportunities
-- 🎭 Background in acting — great code tells a great story.
+- Currently mastering the **MERN Stack**
+- Strengthening my **Data Structures & Algorithms**
+- Open for **Freelance** & **Full-Time** opportunities
+- Background in acting — great code tells a great story.
 
 ---
 
@@ -58,7 +58,7 @@ I treat coding like a performance — it requires practice, precision, and great
 ## 📈 Streak Stats
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=Remmaabde&theme=github-dark&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=RobelAlemayehu&theme=github-dark&hide_border=true" height="160" />
 </p>
 
 ---
