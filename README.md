@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | MERN Specialist | DSA Enthusiast  
 
-I am a passionate developer from Ethiopia , currently deep-diving into the **MERN Stack** and mastering **Data Structures & Algorithms**.  
+I am a passionate developer from Ethiopia, currently deep-diving into the **MERN Stack** and mastering **Data Structures & Algorithms**.  
 I treat coding like a performance — it requires practice, precision, and great delivery.
 
 ---
@@ -21,11 +21,18 @@ I treat coding like a performance — it requires practice, precision, and great
 
 ---
 
-## 🧠 Problem Solving & Competitive Programming
+## 🧠 Competitive Programming
 
-- 🏆 **LeetCode:** [@robel_al](https://leetcode.com/u/robel_al/)
-- 💻 **Codeforces:** [@robelalemayehu](https://codeforces.com/profile/robelalemayehu)
-- 🎯 Currently mastering **DSA** to build optimized, scalable applications.
+<p>
+  <a href="https://leetcode.com/u/robel_al/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/robelalemayehu">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+🎯 Currently mastering **DSA** to build optimized, scalable applications.
 
 ---
 
@@ -34,15 +41,15 @@ I treat coding like a performance — it requires practice, precision, and great
 - 🌱 Currently mastering the **MERN Stack**
 - 📚 Strengthening my **Data Structures & Algorithms**
 - 💼 Open for **Freelance** & **Full-Time** opportunities
-- 🎭 Fun fact: I have a background in acting — great code tells a great story.
+- 🎭 Background in acting — great code tells a great story.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=RobelAlemayehu&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobelAlemayehu&layout=compact&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Remmaabde&show_icons=true&theme=github_dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Remmaabde&layout=compact&theme=github_dark&hide_border=true" height="160" />
 </p>
 
 ---
@@ -50,7 +57,7 @@ I treat coding like a performance — it requires practice, precision, and great
 ## 📈 Streak Stats
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=RobelAlemayehu&theme=github-dark&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=Remmaabde&theme=github-dark&hide_border=true" height="160" />
 </p>
 
 ---
@@ -67,7 +74,5 @@ I treat coding like a performance — it requires practice, precision, and great
 </p>
 
 ---
-
-
 
 ⭐️ From [Robel Alemayehu](https://github.com/RobelAlemayehu)
