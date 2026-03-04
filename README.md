@@ -1,15 +1,15 @@
 # Hi there, I'm Robel Alemayehu 👋
 
-### 🚀 Full-Stack Developer | MERN Specialist | DSA Enthusiast  
+### Full-Stack Developer | MERN Specialist | DSA Enthusiast  
 
-I am a passionate developer from Ethiopia 🇪🇹, currently deep-diving into the **MERN Stack** and mastering **Data Structures & Algorithms**.  
+I am a passionate developer from Ethiopia , currently deep-diving into the **MERN Stack** and mastering **Data Structures & Algorithms**.  
 I treat coding like a performance — it requires practice, precision, and great delivery.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 🚀 Frontend & Backend
+###  Frontend & Backend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" />
 </p>
@@ -68,10 +68,6 @@ I treat coding like a performance — it requires practice, precision, and great
 
 ---
 
-## 💡 Quote I Believe In
 
-> “First, solve the problem. Then, write the code.” – John Johnson
 
----
-
-⭐️ From [Robel Alemayehu](https://github.com/Remmaabde)
+⭐️ From [Robel Alemayehu](https://github.com/RobelAlemayehu)
