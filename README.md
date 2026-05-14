@@ -7,21 +7,21 @@ I treat coding like a performance — it requires practice, precision, and great
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ###  Frontend & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,typescript,sql,postgress,go," />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,typescript,sql,postgress,go" />
 </p>
 
-### 💻 Languages & Tools
+### Languages & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=java,cpp,python,git,figma,postman,github,vercel,flutter,dart,kotlin,docker" />
 </p>
 
 ---
 
-## 🧠 Competitive Programming
+## Competitive Programming
 
 <p align="left">
   <a href="https://leetcode.com/u/robel_al/">
