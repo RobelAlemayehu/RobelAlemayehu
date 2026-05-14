@@ -16,7 +16,7 @@ I treat coding like a performance — it requires practice, precision, and great
 
 ### 💻 Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,git,figma,postman,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,git,figma,postman,github,vercel,flutter,dart,kotlin" />
 </p>
 
 ---
