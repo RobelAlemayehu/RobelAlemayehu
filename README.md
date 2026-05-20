@@ -6,7 +6,7 @@
 
 # Robel Alemayehu
 
-**Full-Stack Developer · MERN Specialist · DSA Enthusiast · From Ethiopia 🇪🇹**
+**Full-Stack Developer · MERN Specialist · DSA Enthusiast**
 
 *Treating code like a performance — built on practice, precision, and great delivery.*
 
