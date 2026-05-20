@@ -1,18 +1,22 @@
 <div align="center">
 
+```
+// profile readme
+```
+
 # Robel Alemayehu
 
-**Full-Stack Developer · MERN Specialist · DSA Enthusiast **
+**Full-Stack Developer · MERN Specialist · DSA Enthusiast · From Ethiopia 🇪🇹**
 
 *Treating code like a performance — built on practice, precision, and great delivery.*
 
-🟢 **Open to Freelance & Full-Time opportunities**
+**Open to Freelance & Full-Time opportunities**
 
 </div>
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 **Frontend & Backend**
 
@@ -24,7 +28,7 @@
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![SQL](https://skillicons.dev/icons?i=postgresql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![Go](https://skillicons.dev/icons?i=go)
 
 **Languages & Tools**
@@ -44,22 +48,22 @@
 
 ---
 
-## 🔭 What I'm Up To
+## What I'm Up To
 
 ```
-› Mastering the MERN Stack end-to-end
-› Sharpening DSA for optimized, scalable builds
-› Open for Freelance & Full-Time roles
-› Background in acting — great code tells a story
+1  Mastering the MERN Stack end-to-end
+2  Sharpening DSA for optimized, scalable builds
+3  Open for Freelance & Full-Time roles
+4  Background in acting — great code tells a story
 ```
 
 ---
 
-## 🏆 Competitive Programming
+## Competitive Programming
 
 <p>
   <a href="https://leetcode.com/u/robel_al/">
-    <img src="https://img.shields.io/badge/LeetCode-robel__al-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-robel__al-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   &nbsp;
   <a href="https://codeforces.com/profile/robelalemayehu">
@@ -67,11 +71,11 @@
   </a>
 </p>
 
-🎯 DSA-first mindset for every solution.
+DSA-first mindset for every solution.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RobelAlemayehu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0" height="160" />
@@ -84,7 +88,7 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p>
   <a href="https://linkedin.com/in/robelalemayehugebreyohannes">
