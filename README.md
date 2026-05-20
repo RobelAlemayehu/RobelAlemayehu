@@ -2,7 +2,7 @@
 
 # Robel Alemayehu
 
-**Full-Stack Developer · MERN Specialist · DSA Enthusiast · From Ethiopia 🇪🇹**
+**Full-Stack Developer · MERN Specialist · DSA Enthusiast **
 
 *Treating code like a performance — built on practice, precision, and great delivery.*
 
@@ -100,6 +100,6 @@
 
 <div align="center">
 
-⭐ [RobelAlemayehu](https://github.com/RobelAlemayehu) &nbsp;·&nbsp; *// code like a performance*
+⭐ [RobelAlemayehu](https://github.com/RobelAlemayehu) &nbsp;·&nbsp; 
 
 </div>
