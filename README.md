@@ -11,7 +11,7 @@ I treat coding like a performance — it requires practice, precision, and great
 
 ###  Frontend & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,tailwind,typescript,sql,postgress,go" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,next,mongodb,js,tailwind,typescript,sql,postgress,go" />
 </p>
 
 ### Languages & Tools
