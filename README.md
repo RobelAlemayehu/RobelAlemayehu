@@ -1,64 +1,85 @@
-# Hi there, I'm Robel Alemayehu 👋
+<div align="center">
 
-### Full-Stack Developer | MERN Specialist | DSA Enthusiast  
+# Robel Alemayehu
 
-I am a passionate developer from Ethiopia, currently deep-diving into the **MERN Stack** and mastering **Data Structures & Algorithms**.  
-I treat coding like a performance — it requires practice, precision, and great delivery.
+**Full-Stack Developer · MERN Specialist · DSA Enthusiast · From Ethiopia 🇪🇹**
 
----
+*Treating code like a performance — built on practice, precision, and great delivery.*
 
-## Tech Stack
+🟢 **Open to Freelance & Full-Time opportunities**
 
-###  Frontend & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,next,mongodb,js,tailwind,typescript,sql,postgress,go" />
-</p>
-
-### Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,git,figma,postman,github,vercel,flutter,dart,kotlin,docker" />
-</p>
+</div>
 
 ---
 
-## Competitive Programming
+## ⚡ Tech Stack
 
-<p align="left">
-  <a href="https://leetcode.com/u/robel_al/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/robelalemayehu">
-    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="40" />
-  </a>
-</p>
+**Frontend & Backend**
 
-🎯 Currently mastering **DSA** to build optimized, scalable applications.
+![React](https://skillicons.dev/icons?i=react)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Next.js](https://skillicons.dev/icons?i=next)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![SQL](https://skillicons.dev/icons?i=postgresql)
+![Go](https://skillicons.dev/icons?i=go)
+
+**Languages & Tools**
+
+![Java](https://skillicons.dev/icons?i=java)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![Dart](https://skillicons.dev/icons?i=dart)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Docker](https://skillicons.dev/icons?i=docker)
 
 ---
 
 ## 🔭 What I'm Up To
 
-- Currently mastering the **MERN Stack**
-- Strengthening my **Data Structures & Algorithms**
-- Open for **Freelance** & **Full-Time** opportunities
-- Background in acting — great code tells a great story.
+```
+› Mastering the MERN Stack end-to-end
+› Sharpening DSA for optimized, scalable builds
+› Open for Freelance & Full-Time roles
+› Background in acting — great code tells a story
+```
+
+---
+
+## 🏆 Competitive Programming
+
+<p>
+  <a href="https://leetcode.com/u/robel_al/">
+    <img src="https://img.shields.io/badge/LeetCode-robel__al-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/robelalemayehu">
+    <img src="https://img.shields.io/badge/Codeforces-robelalemayehu-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+🎯 DSA-first mindset for every solution.
 
 ---
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=RobelAlemayehu&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobelAlemayehu&layout=compact&theme=github_dark&hide_border=true" height="160" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RobelAlemayehu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobelAlemayehu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0" height="160" />
 </p>
 
----
-
-## 📈 Streak Stats
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=RobelAlemayehu&theme=github-dark&hide_border=true" height="160" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RobelAlemayehu&theme=github-dark&hide_border=true&background=0d1117&fire=00e5a0&ring=00e5a0&currStreakLabel=00e5a0" height="160" />
 </p>
 
 ---
@@ -67,13 +88,18 @@ I treat coding like a performance — it requires practice, precision, and great
 
 <p>
   <a href="https://linkedin.com/in/robelalemayehugebreyohannes">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-robelalemayehu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;
   <a href="mailto:robelalemayehu838@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-robelalemayehu838-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-⭐️ From [Robel Alemayehu](https://github.com/RobelAlemayehu)
+<div align="center">
+
+⭐ [RobelAlemayehu](https://github.com/RobelAlemayehu) &nbsp;·&nbsp; *// code like a performance*
+
+</div>
