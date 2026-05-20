@@ -1,8 +1,6 @@
 <div align="center">
 
-```
-// profile readme
-```
+
 
 # Robel Alemayehu
 
