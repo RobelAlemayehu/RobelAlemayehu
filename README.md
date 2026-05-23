@@ -23,6 +23,7 @@
 ![Express](https://skillicons.dev/icons?i=express)
 ![Next.js](https://skillicons.dev/icons?i=next)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MongoDB](https://skillicons.dev/icons?i=supabase)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
