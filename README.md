@@ -22,7 +22,7 @@
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
 ![Next.js](https://skillicons.dev/icons?i=next)
-![Nest.js](https://skillicons.dev/icons?i=next)
+![Nest.js](https://skillicons.dev/icons?i=nest)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MongoDB](https://skillicons.dev/icons?i=supabase)
 ![JavaScript](https://skillicons.dev/icons?i=js)
