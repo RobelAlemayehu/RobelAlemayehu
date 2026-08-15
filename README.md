@@ -75,13 +75,10 @@ DSA-first mindset for every solution.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobelAlemayehu&show_icons=true&count_private=false&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&icon_color=00e5a0&text_color=c9d1d9" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobelAlemayehu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00e5a0&text_color=c9d1d9" height="160" />
+  <img src="./github-metrics.svg" alt="Robel's GitHub metrics" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RobelAlemayehu&theme=github-dark&hide_border=true&background=0D1117&fire=00e5a0&ring=00e5a0&currStreakLabel=00e5a0" height="160" />
-</p>
+> Auto-refreshed daily via GitHub Actions — see setup below.
 
 ---
 
