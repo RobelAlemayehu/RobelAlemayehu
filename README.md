@@ -42,6 +42,7 @@
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Docker](https://skillicons.dev/icons?i=docker)
+![Prisma](https://skillicons.dev/icons?i=prisma)
 
 ---
 
