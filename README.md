@@ -43,6 +43,10 @@
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Prisma](https://skillicons.dev/icons?i=prisma)
+![Php](https://skillicons.dev/icons?i=php)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+
+
 
 ---
 
