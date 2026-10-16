@@ -27,6 +27,8 @@
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 ![Go](https://skillicons.dev/icons?i=go)
+![Vue](https://skillicons.dev/icons?i=vue)
+
 
 **Languages & Tools**
 
