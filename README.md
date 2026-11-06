@@ -36,7 +36,7 @@
 ![Express](https://skillicons.dev/icons?i=express)
 ![Nest.js](https://skillicons.dev/icons?i=nest)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
-![Springboot](https://skillicons.dev/icons?i=springboot)
+![Spring](https://skillicons.dev/icons?i=spring)
 
 
 **Databases & Tools**
