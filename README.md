@@ -49,7 +49,7 @@
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Postman](https://skillicons.dev/icons?i=postman)
-![Vercel](https://skillicons.dev/icons?i=vercel)
+![kubernates](https://skillicons.dev/icons?i=kubernates)
 ![Figma](https://skillicons.dev/icons?i=figma)
 
 ---
